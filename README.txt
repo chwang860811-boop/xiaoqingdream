@@ -113,4 +113,3 @@ Email：正式環境可接 Resend / Postmark / SendGrid
 - AI 互動影片
 
 以上資料補齊後，就能把這個 V5 從「可展示網站」推進成「正式營運網站」。
-小晴 Dream World
