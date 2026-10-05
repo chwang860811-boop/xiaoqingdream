@@ -1,1 +1,5 @@
-document.addEventListener('DOMContentLoaded',()=>{const m=document.querySelector('.menu'),l=document.querySelector('.links');if(m)m.onclick=()=>{l.style.display=l.style.display==='flex'?'none':'flex';l.style.position='absolute';l.style.top='72px';l.style.left='0';l.style.right='0';l.style.padding='20px';l.style.background='rgba(5,7,20,.97)';l.style.flexDirection='column'}});
+document.addEventListener('DOMContentLoaded',()=>{
+  const m=document.querySelector('.menu'),l=document.querySelector('.links');
+  if(m)m.onclick=()=>{l.style.display=l.style.display==='flex'?'none':'flex';l.style.position='absolute';l.style.top='72px';l.style.left='0';l.style.right='0';l.style.padding='20px';l.style.background='rgba(5,7,20,.97)';l.style.flexDirection='column'};
+  window.addEventListener('pointermove',e=>{document.documentElement.style.setProperty('--mx',e.clientX+'px');document.documentElement.style.setProperty('--my',e.clientY+'px')},{passive:true});
+});
