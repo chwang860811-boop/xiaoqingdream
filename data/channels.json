@@ -1,0 +1,35 @@
+{
+  "channels": {
+    "vyron": {
+      "featured": [],
+      "latest": [],
+      "channelUrl": "https://youtube.com/@vyronmusicofficial"
+    },
+    "vyren": {
+      "featured": [
+        {
+          "id": "3es9wob1jHA",
+          "title": "ELENA — Light Me Alive (Official Music Video)",
+          "featured": true
+        }
+      ],
+      "latest": [],
+      "channelUrl": "https://youtube.com/@VYREN_MUSIC"
+    },
+    "dodo": {
+      "featured": [],
+      "latest": [],
+      "channelUrl": "https://youtube.com/@dodokidsongs"
+    },
+    "mandopop": {
+      "featured": [],
+      "latest": [],
+      "channelUrl": "https://youtube.com/@VYRON華語流行音樂"
+    },
+    "healing": {
+      "featured": [],
+      "latest": [],
+      "channelUrl": "https://youtube.com/@VYRONHealingMusic"
+    }
+  }
+}
