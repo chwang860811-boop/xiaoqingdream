@@ -1,15 +1,53 @@
 {
   "channels": {
     "vyron": {
-      "featured": [],
-      "latest": [],
-      "channelUrl": "https://youtube.com/@vyronmusicofficial"
+      "featured": [
+        {
+          "id": "ZGmxBSxg4sk",
+          "title": "ELENA VYREN – The Night I Let You Go (Official Lyric Video) | VYRON MUSIC",
+          "published": "2026-10-12T20:12:18-07:00",
+          "kind": "video",
+          "featured": true
+        }
+      ],
+      "latest": [
+        {
+          "id": "xskP5BXwzoo",
+          "title": "《閃身步》最好聽的版本來了！🔥｜陸以辰 LU YICHEN｜VYRON MUSIC",
+          "published": "2026-10-12T22:49:48-07:00",
+          "kind": "short"
+        },
+        {
+          "id": "ZGmxBSxg4sk",
+          "title": "ELENA VYREN – The Night I Let You Go (Official Lyric Video) | VYRON MUSIC",
+          "published": "2026-10-12T20:12:18-07:00",
+          "kind": "video"
+        },
+        {
+          "id": "S-JZUvtLXpI",
+          "title": "ELENA VYREN – Light Me Alive ✨ | Official Music Teaser | VYRON MUSIC",
+          "published": "2026-10-12T12:16:21-07:00",
+          "kind": "short"
+        },
+        {
+          "id": "6tDahUryqlA",
+          "title": "ELENA VYREN – Light Me Alive (Special Version) | Official Music Video",
+          "published": "2026-10-12T11:32:55-07:00",
+          "kind": "video"
+        }
+      ],
+      "channelUrl": "https://www.youtube.com/@VYRONMUSICOFFICIAL",
+      "channelId": "UCojpCg055rkp2NJIgH4cyog",
+      "channelName": "VYRON MUSIC",
+      "lastCheckedAt": "2026-10-14T00:13:47.342494+00:00"
     },
     "vyren": {
       "featured": [
         {
           "id": "tFe1W2CGwgE",
           "title": "ELENA – The Night I Let You Go (Official Music Video) | VYREN MUSIC",
+          "published": "2026-10-12T05:12:32-07:00",
+          "kind": "video",
           "featured": true
         },
         {
@@ -22,30 +60,82 @@
         {
           "id": "tFe1W2CGwgE",
           "title": "ELENA – The Night I Let You Go (Official Music Video) | VYREN MUSIC",
-          "published": "2026-10-12T05:12:32-07:00"
+          "published": "2026-10-12T05:12:32-07:00",
+          "kind": "video"
+        },
+        {
+          "id": "hoCMRblgbDA",
+          "title": "Elena VYREN – Light Me Alive ✨ | Official MV Highlights #Shorts",
+          "published": "2026-10-10T00:08:41-07:00",
+          "kind": "short"
         },
         {
           "id": "3es9wob1jHA",
           "title": "ELENA – Light Me Alive (Official Music Video)",
-          "published": "2026-10-08T00:42:20-07:00"
+          "published": "2026-10-08T00:42:20-07:00",
+          "kind": "video"
         }
       ],
-      "channelUrl": "https://www.youtube.com/@ElenaVYREN"
+      "channelUrl": "https://www.youtube.com/@ElenaVYREN",
+      "channelId": "UCPHytK_39IBmBsfpl4FFtGw",
+      "channelName": "Elena VYREN",
+      "lastCheckedAt": "2026-10-14T00:13:47.342494+00:00"
     },
     "dodo": {
       "featured": [],
       "latest": [],
-      "channelUrl": "https://youtube.com/@dodokidsongs"
+      "channelUrl": "https://www.youtube.com/@dodokidsongs",
+      "channelId": "UCT5qD-32OZEpaXRVVOr00Gw",
+      "channelName": "DODO 飛龍世界",
+      "lastCheckedAt": "2026-10-14T00:13:47.342494+00:00",
+      "emptyMessage": "目前未取得此頻道的公開上傳影片，歡迎前往官方頻道查看。"
     },
     "mandopop": {
-      "featured": [],
-      "latest": [],
-      "channelUrl": "https://youtube.com/@VYRON華語流行音樂"
+      "featured": [
+        {
+          "id": "tAMQvqEHysY",
+          "title": "陸以辰《閃身步》🔥 最好聽的版本！｜浪子踢球・狗熊哆嗦毛・搖頭晃腦",
+          "published": "2026-10-12T22:52:49-07:00",
+          "kind": "short",
+          "featured": true
+        }
+      ],
+      "latest": [
+        {
+          "id": "tAMQvqEHysY",
+          "title": "陸以辰《閃身步》🔥 最好聽的版本！｜浪子踢球・狗熊哆嗦毛・搖頭晃腦",
+          "published": "2026-10-12T22:52:49-07:00",
+          "kind": "short"
+        }
+      ],
+      "channelUrl": "https://www.youtube.com/channel/UCV9ABG2k1UB9izQNzD7JCkQ",
+      "channelId": "UCV9ABG2k1UB9izQNzD7JCkQ",
+      "channelName": "VYRON 華語流行音樂",
+      "lastCheckedAt": "2026-10-14T00:13:47.342494+00:00"
     },
     "healing": {
-      "featured": [],
-      "latest": [],
-      "channelUrl": "https://youtube.com/@VYRONHealingMusic"
+      "featured": [
+        {
+          "id": "D7VR194WGtg",
+          "title": "雲端之境 ☁️｜療癒純音樂・冥想助眠｜Relaxing Music for Sleep & Meditation｜VYRON",
+          "published": "2026-10-12T10:16:02-07:00",
+          "kind": "video",
+          "featured": true
+        }
+      ],
+      "latest": [
+        {
+          "id": "D7VR194WGtg",
+          "title": "雲端之境 ☁️｜療癒純音樂・冥想助眠｜Relaxing Music for Sleep & Meditation｜VYRON",
+          "published": "2026-10-12T10:16:02-07:00",
+          "kind": "video"
+        }
+      ],
+      "channelUrl": "https://www.youtube.com/@VYRONHealingMusic",
+      "channelId": "UCjXhjiGnGEQkLWu9f8M7MDA",
+      "channelName": "VYRON 靜心音樂",
+      "lastCheckedAt": "2026-10-14T00:13:47.342494+00:00"
     }
-  }
+  },
+  "lastSyncedAt": "2026-10-14T00:13:47.342494+00:00"
 }
