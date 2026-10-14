@@ -1,12 +1,18 @@
 {
   "channelId": "UCPHytK_39IBmBsfpl4FFtGw",
-  "channelName": "VYREN MUSIC",
-  "channelUrl": "https://www.youtube.com/@VYREN_MUSIC",
+  "channelName": "Elena VYREN",
+  "channelUrl": "https://www.youtube.com/@ElenaVYREN",
   "videos": [
+    {
+      "id": "tFe1W2CGwgE",
+      "title": "ELENA – The Night I Let You Go (Official Music Video) | VYREN MUSIC",
+      "published": "2026-10-12T05:12:32-07:00"
+    },
     {
       "id": "3es9wob1jHA",
       "title": "ELENA – Light Me Alive (Official Music Video)",
-      "published": null
+      "published": "2026-10-08T00:42:20-07:00"
     }
-  ]
+  ],
+  "lastSyncedAt": "2026-10-14T00:10:02.197461+00:00"
 }

@@ -8,13 +8,29 @@
     "vyren": {
       "featured": [
         {
+          "id": "tFe1W2CGwgE",
+          "title": "ELENA – The Night I Let You Go (Official Music Video) | VYREN MUSIC",
+          "featured": true
+        },
+        {
           "id": "3es9wob1jHA",
           "title": "ELENA — Light Me Alive (Official Music Video)",
           "featured": true
         }
       ],
-      "latest": [],
-      "channelUrl": "https://youtube.com/@VYREN_MUSIC"
+      "latest": [
+        {
+          "id": "tFe1W2CGwgE",
+          "title": "ELENA – The Night I Let You Go (Official Music Video) | VYREN MUSIC",
+          "published": "2026-10-12T05:12:32-07:00"
+        },
+        {
+          "id": "3es9wob1jHA",
+          "title": "ELENA – Light Me Alive (Official Music Video)",
+          "published": "2026-10-08T00:42:20-07:00"
+        }
+      ],
+      "channelUrl": "https://www.youtube.com/@ElenaVYREN"
     },
     "dodo": {
       "featured": [],
