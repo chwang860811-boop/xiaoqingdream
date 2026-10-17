@@ -3,6 +3,13 @@
     "vyron": {
       "featured": [
         {
+          "id": "RGlxzoVHDek",
+          "title": "陸以辰 LU YICHEN《晚一點也沒關係》｜官方歌詞版 MV｜VYRON MUSIC",
+          "published": "2026-10-15T23:06:10-07:00",
+          "kind": "video",
+          "featured": true
+        },
+        {
           "id": "ZGmxBSxg4sk",
           "title": "ELENA VYREN – The Night I Let You Go (Official Lyric Video) | VYRON MUSIC",
           "published": "2026-10-12T20:12:18-07:00",
@@ -11,6 +18,18 @@
         }
       ],
       "latest": [
+        {
+          "id": "RGlxzoVHDek",
+          "title": "陸以辰 LU YICHEN《晚一點也沒關係》｜官方歌詞版 MV｜VYRON MUSIC",
+          "published": "2026-10-15T23:06:10-07:00",
+          "kind": "video"
+        },
+        {
+          "id": "jV5J6WBLklA",
+          "title": "陸以辰 LU YICHEN《如果那天沒放手》｜官方歌詞版｜VYRON MUSIC",
+          "published": "2026-10-13T21:15:09-07:00",
+          "kind": "video"
+        },
         {
           "id": "xskP5BXwzoo",
           "title": "《閃身步》最好聽的版本來了！🔥｜陸以辰 LU YICHEN｜VYRON MUSIC",
@@ -39,7 +58,7 @@
       "channelUrl": "https://www.youtube.com/@VYRONMUSICOFFICIAL",
       "channelId": "UCojpCg055rkp2NJIgH4cyog",
       "channelName": "VYRON MUSIC",
-      "lastCheckedAt": "2026-10-14T00:13:47.342494+00:00"
+      "lastCheckedAt": "2026-10-17T00:35:12.038526+00:00"
     },
     "vyren": {
       "featured": [
@@ -79,7 +98,7 @@
       "channelUrl": "https://www.youtube.com/@ElenaVYREN",
       "channelId": "UCPHytK_39IBmBsfpl4FFtGw",
       "channelName": "Elena VYREN",
-      "lastCheckedAt": "2026-10-14T00:13:47.342494+00:00"
+      "lastCheckedAt": "2026-10-17T00:35:12.038526+00:00"
     },
     "dodo": {
       "featured": [],
@@ -87,11 +106,18 @@
       "channelUrl": "https://www.youtube.com/@dodokidsongs",
       "channelId": "UCT5qD-32OZEpaXRVVOr00Gw",
       "channelName": "DODO 飛龍世界",
-      "lastCheckedAt": "2026-10-14T00:13:47.342494+00:00",
+      "lastCheckedAt": "2026-10-17T00:35:12.038526+00:00",
       "emptyMessage": "目前未取得此頻道的公開上傳影片，歡迎前往官方頻道查看。"
     },
     "mandopop": {
       "featured": [
+        {
+          "id": "0MMvn17n7Eg",
+          "title": "陸以辰 LU YICHEN《晚一點也沒關係》｜官方歌詞版 MV｜VYRON 華語流行音樂",
+          "published": "2026-10-15T22:42:22-07:00",
+          "kind": "video",
+          "featured": true
+        },
         {
           "id": "tAMQvqEHysY",
           "title": "陸以辰《閃身步》🔥 最好聽的版本！｜浪子踢球・狗熊哆嗦毛・搖頭晃腦",
@@ -102,6 +128,24 @@
       ],
       "latest": [
         {
+          "id": "0MMvn17n7Eg",
+          "title": "陸以辰 LU YICHEN《晚一點也沒關係》｜官方歌詞版 MV｜VYRON 華語流行音樂",
+          "published": "2026-10-15T22:42:22-07:00",
+          "kind": "video"
+        },
+        {
+          "id": "Exh76uggfvM",
+          "title": "陸以辰 LU YICHEN《後來才懂》｜2026催淚華語情歌・官方歌詞版｜VYRON MUSIC",
+          "published": "2026-10-15T00:43:57-07:00",
+          "kind": "video"
+        },
+        {
+          "id": "OGxegcGQEFo",
+          "title": "陸以辰 LU YICHEN《如果那天沒放手》｜官方歌詞版 MV｜VYRON 華語流行音樂",
+          "published": "2026-10-13T19:45:27-07:00",
+          "kind": "video"
+        },
+        {
           "id": "tAMQvqEHysY",
           "title": "陸以辰《閃身步》🔥 最好聽的版本！｜浪子踢球・狗熊哆嗦毛・搖頭晃腦",
           "published": "2026-10-12T22:52:49-07:00",
@@ -111,7 +155,7 @@
       "channelUrl": "https://www.youtube.com/channel/UCV9ABG2k1UB9izQNzD7JCkQ",
       "channelId": "UCV9ABG2k1UB9izQNzD7JCkQ",
       "channelName": "VYRON 華語流行音樂",
-      "lastCheckedAt": "2026-10-14T00:13:47.342494+00:00"
+      "lastCheckedAt": "2026-10-17T00:35:12.038526+00:00"
     },
     "healing": {
       "featured": [
@@ -134,8 +178,8 @@
       "channelUrl": "https://www.youtube.com/@VYRONHealingMusic",
       "channelId": "UCjXhjiGnGEQkLWu9f8M7MDA",
       "channelName": "VYRON 靜心音樂",
-      "lastCheckedAt": "2026-10-14T00:13:47.342494+00:00"
+      "lastCheckedAt": "2026-10-17T00:35:12.038526+00:00"
     }
   },
-  "lastSyncedAt": "2026-10-14T00:13:47.342494+00:00"
+  "lastSyncedAt": "2026-10-17T00:35:12.038526+00:00"
 }
